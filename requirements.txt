@@ -1,3 +1,5 @@
 spacy==3.8.7
 geopy==2.4.1
 folium==0.20.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
